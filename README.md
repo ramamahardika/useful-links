@@ -1,103 +1,103 @@
 # The Most Useful Websites and Web Apps
 
-- [http://www.10minutemail.com](10minutemail.com) create disposable email addresses for putting inside sign-up forms.
-- [http://www.anchor.fm](anchor.fm) the easiest way to record a podcast that you can distribute on iTunes without have to pay for hosting.
-- [http://www.apify.com](apify.com) the perfect web scraping tool that lets you extract data from nearly any website.
-- [http://www.app.grammarly.com](app.grammarly.com) check your writing for spelling, style, andgrammatical errors.
-- [http://www.archive.is](archive.is) take a snapshot of any web page and it will be exist forever even if the original page is gone.
-- [http://www.asciiflow.com](asciiflow.com) a WYSIWYG editor to draw ASCII diagrams that you can embed in emails and tweets.
-- [http://www.autodraw.com](autodraw.com) create freehand doodles and watch them magically transform into beautiful drawings powered by maching learning.
-- [http://www.bubbl.us](bubbl.us) create mind-maps, brainstorm ideas in the browser.
-- [http://www.buffer.com](buffer.com) the easily way to post and schedule updates on Twitter, Instagram, LinkedIn, Google+ and Facebook.
-- [http://www.builtwith.com](builtwith.com) find the web hosting company, email provider and everything else about a website.
-- [http://www.calligraphr.com](calligraphr.com) transform your handwriting into a real font.
-- [http://www.camelcamelcamel.com](camelcamelcamel.com) Create Amazon price watches and get email alerts when the prices drop.
-- [http://www.canva.com](canva.com) make beautiful graphics, presentations, resumes and more with readymade template designs.
-- [http://www.carrd.co](carrd.co) build one-page fully responsive websites that look good on every screen.
-- [http://www.class-central.com](class-central.com) a directory of free online courses offered by universities worldwide.
-- [http://www.clyp.it](clyp.it) Record your own voice or upload an audio file without creating any account. Also see soundcloud.com 2.
-- [http://www.codeacademy.com](codeacademy.com) the best place to learn coding online.
-- [http://www.color.adobe.com](color.adobe.com) get color ideas, also extract colors from photographs.
-- [http://www.copychar.cc](copychar.cc) copy special characters and emojis that aren’t on your keyboard.
-- [http://www.designer.io](designer.io) a full-featured vector drawing tool that works everywhere.
-- [http://www.dictation.io](dictation.io) accurate and quick voice recognition in your browser itself.
-- [http://www.domains.google.com](domains.google.com) quickly search domain names for your next big idea!
-- [http://www.downforeveryoneorjustme.com](downforeveryoneorjustme.com) find if your favorite website is offline or not?
-- [http://www.draw.io](draw.io) create diagrams, wireframe and flowcharts in the browser.
-- [http://www.duckduckgo.com](duckduckgo.com) a clean alternative to google search that doesn’t track you on the Internet.
-- [http://www.duolingo.com](duolingo.com) learn to speak Chinese, French, Spanish or any other language of your choice.
-- [http://www.e.ggtimer.com](e.ggtimer.com) a simple online timer for your daily needs.
-- [http://www.earn.com](earn.com) replace your email with a mailbox that pays when you reply to someone’s email.
-- [http://www.everytimezone.com](everytimezone.com) a less confusing view of the world time zones.
-- [http://www.fast.com](fast.com) check the current speed of your Internet connection.
-- [http://www.faxzero.com](faxzero.com) send an online fax for free – see more fax services.
-- [http://www.file.pizza](file.pizza) peer to peer file transfer over WebRTC without any middleman.
-- [http://www.flightstats.com](flightstats.com) Track flight status at airports worldwide.
-- [http://www.flightstats.com](flightstats.com) track flight status at airports worldwide.
-- [http://www.flipanim.com](flipanim.com) create flipbook animations, includes an onion skin tool to let you see the previous frame as you draw the next one.
-- [http://www.flowgram.com](flowgram.com) make data-driven graphics, charts and infographics. Also see adioma.com 4 and eas.ly.
-- [http://www.fonts.google.com](fonts.google.com) the best collection of open source fonts that you can use anywhere without restrictions.
-- [http://www.fontstruct.com](fontstruct.com) draw and build your own fonts and use them in any application.
-- [http://www.gist.github.com](gist.github.com) create anonymous and secret text notes and much more.
-- [http://www.gohighbrow.com](gohighbrow.com) Take bite-sized courses on a variety of topics, chapters are delivered by email every monning.
-- [http://www.googleartproject.com](googleartproject.com) discover museums, famous paintings and art treasure from all around the world.
-- [http://www.gtmetrix.com](gtmetrix.com) the perfect tool for measuring your site performance online.
-- [http://www.headspace.com](headspace.com) learn the art of meditation and reduct stress, focus more and even sleep better.
-- [http://www.history.google.com](history.google.com) see all your past Google searches, also among most important Google URLs
-- [http://www.homestyler.com](homestyler.com) design from scratch or re-model your home in 3D.
-- [http://www.htmlmail.pro](htmlmail.pro) send rich-text emails with gmail mail merge.
-- [http://www.hundredzeros.com](hundredzeros.com) the site lets you download free Kindle books.
-- [http://www.iconfinder.com](iconfinder.com) millions of icons for all kinds of projects. Also try icons8.com 8 and flaticon.com 7.
-- [http://www.ifttt.com](ifttt.com) create a connection between all your online accounts.
-- [http://www.instructables.com](instructables.com) step-by-step guides on how to build anything and everything.
-- [http://www.jotti.org](jotti.org) scan any suspicious file or email attachment for viruses.
-- [http://www.kleki.com](kleki.com) create paintings and sketches with a wide variety of brushes.
-- [http://www.lmgtfy.com](lmgtfy.com) when your friends are too lazy to use Google on their own.
-- [http://www.marvelapp.com](marvelapp.com) create interactive wireframes and product mockups.
-- [http://www.midomi.com](midomi.com) when you need to find the name of a song.
-- [http://www.minutes.io](minutes.io) quickly capture effective notes during meetings.
-- [http://www.mockaroo.com](mockaroo.com) download mock data to fill the rows in your Excel spreadsheet.
-- [http://www.myfonts.com/WhatTheFont](myfonts.com/WhatTheFont) upload an image of any text and quickly determine the font family.
-- [http://www.mymaps.google.com](mymaps.google.com) create custom Google Maps with scribbles, pins and custom shapes.
-- [http://www.namechk.com](namechk.com) search for your desired username across hundreds of social networks and domain names.
-- [http://www.noisli.com](noisli.com) ambient noises to help you improve focus and boost productivity.
-- [http://www.noteflight.com](noteflight.com) print music sheets, write your own music online ( review) .
-- [http://www.onlineocr.net](onlineocr.net) recognize text from scanned PDFs – see other OCR tools.
-- [http://www.pdfescape.com](pdfescape.com) lets you quickly edit PDF in the browser without Acrobat.
-- [http://www.pixton.com](pixton.com) create your own comic strips with your own characters and move them into any pose.
-- [http://www.powtoon.com](powtoon.com) create engaging whiteboard videos and presentations with your own voiceovers. Also see videoscribe.co 1.
-- [http://www.privnote.com](privnote.com) create text notes that will self-destruct after being read.
-- [http://www.random.org](random.org) pick random numbers, flip coins, and more.
-- [http://www.regex.info](regex.info) find data hidden in your photographs – see more EXIF tools.
-- [http://www.remotedesktop.google.com](remotedesktop.google.com) access other computers or allow others to remote access your computer over the Internet.
-- [http://www.reverse.photos](reverse.photos) upload an image and find similar pictures on the web.
-- [http://www.screenshot.guru](screenshot.guru) take high-resolution screenshots of web pages on mobile and desktops.
-- [http://www.seatguru.com](seatguru.com) consult this site before choosing a seat for your next flight.
-- [http://www.similarsites.com](similarsites.com) discover new sites that are similar to what you like already.
-- [http://www.slide.ly](slide.ly) make marketing videos and branded stories for Instagram, Facebook and YouTube trailers. Also see animoto.com and biteable.com.
-- [http://www.slides.com](slides.com) create pixel-perfect slide decks and broadcast your presentations to an audience of any size from anywhere.
-- [http://www.snapdrop.com](snapdrop.com) like Apple AirDrop but for the web. Share files directly between devices in the same network without having to upload them to any server first.
-- [http://www.snopes.com](snopes.com) find if that email offer you received is real or just another scam.
-- [http://www.spark.adobe.com](spark.adobe.com) make stunning video presentations with voice narration and wow everyone.
-- [http://www.sumopaint.com](sumopaint.com) an excellent layer-based online image editor.
-- [http://www.sway.com](sway.com) create and share interactive reports, newsletters, presentations, and for storytelling.
-- [http://www.talltweets.com](talltweets.com) Turn Google Slides in animated GIF presentations.
-- [http://www.thunkable.com](thunkable.com) build your own apps for Android and iOS by dragging blocks instead of writing code. Also see: glitch.com 8.
-- [http://www.tinychat.com](tinychat.com) setup your own private chat room in micro-seconds.
-- [http://www.todo.microsoft.com](todo.microsoft.com) a beautiful todo app and task manager. Also see Trello.
-- [http://www.translate.google.com](translate.google.com) translate web pages, PDFs and Office documents.
-- [http://www.twitterbots](twitterbots) create your own Twitter bots that can auto-reply, DM, follow people and more.
-- [http://www.typingweb.com](typingweb.com) master touch-typing with these practice sessions.
-- [http://www.unsplash.com](unsplash.com) the best place to download images absolutely free.
-- [http://www.upwork.com](upwork.com) find freelancers and subject experts to work on any kind of project.
-- [http://www.urbandictionary.com](urbandictionary.com) find definitions of slangs and informal words.
-- [http://www.vectr.com](vectr.com) create vector graphics and export them as SVG or PNG files.
-- [http://www.videos.pexels.com](videos.pexels.com) an online library of free HD videos you can use everywhere. Also see videvo.net 20.
-- [http://www.web.skype.com](web.skype.com) make voice and video calls in your browser with Skype.
-- [http://www.webmakerapp.com](webmakerapp.com) an offline playground for building web projects in HTML, CSS and JavaScript.
-- [http://www.wetransfer.com](wetransfer.com) for sharing really big files online.
-- [http://www.whereami](whereami) find the postal address of your current location on Google maps.
-- [http://www.wirecutter.com](wirecutter.com) whether you need a vacuum cleaner or an SD card, this is the best product recommendation website on the Internet.
-- [http://www.wolframalpha.com](wolframalpha.com) gets answers directly without searching – see more wolfram tips.
-- [http://www.youtube.com/webcam](youtube.com/webcam) broadcast yourself live over the Internet without any complicated setup.
-- [http://www.zerodollarmovies.com](zerodollarmovies.com) a huge collection of free movies curated from YouTube.
+- [10minutemail.com](http://www.10minutemail.com) create disposable email addresses for putting inside sign-up forms.
+- [anchor.fm](http://www.anchor.fm) the easiest way to record a podcast that you can distribute on iTunes without have to pay for hosting.
+- [apify.com](http://www.apify.com) the perfect web scraping tool that lets you extract data from nearly any website.
+- [app.grammarly.com](http://www.app.grammarly.com) check your writing for spelling, style, andgrammatical errors.
+- [archive.is](http://www.archive.is) take a snapshot of any web page and it will be exist forever even if the original page is gone.
+- [asciiflow.com](http://www.asciiflow.com) a WYSIWYG editor to draw ASCII diagrams that you can embed in emails and tweets.
+- [autodraw.com](http://www.autodraw.com) create freehand doodles and watch them magically transform into beautiful drawings powered by maching learning.
+- [bubbl.us](http://www.bubbl.us) create mind-maps, brainstorm ideas in the browser.
+- [buffer.com](http://www.buffer.com) the easily way to post and schedule updates on Twitter, Instagram, LinkedIn, Google+ and Facebook.
+- [builtwith.com](http://www.builtwith.com) find the web hosting company, email provider and everything else about a website.
+- [calligraphr.com](http://www.calligraphr.com) transform your handwriting into a real font.
+- [camelcamelcamel.com](http://www.camelcamelcamel.com) Create Amazon price watches and get email alerts when the prices drop.
+- [canva.com](http://www.canva.com) make beautiful graphics, presentations, resumes and more with readymade template designs.
+- [carrd.co](http://www.carrd.co) build one-page fully responsive websites that look good on every screen.
+- [class-central.com](http://www.class-central.com) a directory of free online courses offered by universities worldwide.
+- [clyp.it](http://www.clyp.it) Record your own voice or upload an audio file without creating any account. Also see soundcloud.com 2.
+- [codeacademy.com](http://www.codeacademy.com) the best place to learn coding online.
+- [color.adobe.com](http://www.color.adobe.com) get color ideas, also extract colors from photographs.
+- [copychar.cc](http://www.copychar.cc) copy special characters and emojis that aren’t on your keyboard.
+- [designer.io](http://www.designer.io) a full-featured vector drawing tool that works everywhere.
+- [dictation.io](http://www.dictation.io) accurate and quick voice recognition in your browser itself.
+- [domains.google.com](http://www.domains.google.com) quickly search domain names for your next big idea!
+- [downforeveryoneorjustme.com](http://www.downforeveryoneorjustme.com) find if your favorite website is offline or not?
+- [draw.io](http://www.draw.io) create diagrams, wireframe and flowcharts in the browser.
+- [duckduckgo.com](http://www.duckduckgo.com) a clean alternative to google search that doesn’t track you on the Internet.
+- [duolingo.com](http://www.duolingo.com) learn to speak Chinese, French, Spanish or any other language of your choice.
+- [e.ggtimer.com](http://www.e.ggtimer.com) a simple online timer for your daily needs.
+- [earn.com](http://www.earn.com) replace your email with a mailbox that pays when you reply to someone’s email.
+- [everytimezone.com](http://www.everytimezone.com) a less confusing view of the world time zones.
+- [fast.com](http://www.fast.com) check the current speed of your Internet connection.
+- [faxzero.com](http://www.faxzero.com) send an online fax for free – see more fax services.
+- [file.pizza](http://www.file.pizza) peer to peer file transfer over WebRTC without any middleman.
+- [flightstats.com](http://www.flightstats.com) Track flight status at airports worldwide.
+- [flightstats.com](http://www.flightstats.com) track flight status at airports worldwide.
+- [flipanim.com](http://www.flipanim.com) create flipbook animations, includes an onion skin tool to let you see the previous frame as you draw the next one.
+- [flowgram.com](http://www.flowgram.com) make data-driven graphics, charts and infographics. Also see adioma.com 4 and eas.ly.
+- [fonts.google.com](http://www.fonts.google.com) the best collection of open source fonts that you can use anywhere without restrictions.
+- [fontstruct.com](http://www.fontstruct.com) draw and build your own fonts and use them in any application.
+- [gist.github.com](http://www.gist.github.com) create anonymous and secret text notes and much more.
+- [gohighbrow.com](http://www.gohighbrow.com) Take bite-sized courses on a variety of topics, chapters are delivered by email every monning.
+- [googleartproject.com](http://www.googleartproject.com) discover museums, famous paintings and art treasure from all around the world.
+- [gtmetrix.com](http://www.gtmetrix.com) the perfect tool for measuring your site performance online.
+- [headspace.com](http://www.headspace.com) learn the art of meditation and reduct stress, focus more and even sleep better.
+- [history.google.com](http://www.history.google.com) see all your past Google searches, also among most important Google URLs
+- [homestyler.com](http://www.homestyler.com) design from scratch or re-model your home in 3D.
+- [htmlmail.pro](http://www.htmlmail.pro) send rich-text emails with gmail mail merge.
+- [hundredzeros.com](http://www.hundredzeros.com) the site lets you download free Kindle books.
+- [iconfinder.com](http://www.iconfinder.com) millions of icons for all kinds of projects. Also try icons8.com 8 and flaticon.com 7.
+- [ifttt.com](http://www.ifttt.com) create a connection between all your online accounts.
+- [instructables.com](http://www.instructables.com) step-by-step guides on how to build anything and everything.
+- [jotti.org](http://www.jotti.org) scan any suspicious file or email attachment for viruses.
+- [kleki.com](http://www.kleki.com) create paintings and sketches with a wide variety of brushes.
+- [lmgtfy.com](http://www.lmgtfy.com) when your friends are too lazy to use Google on their own.
+- [marvelapp.com](http://www.marvelapp.com) create interactive wireframes and product mockups.
+- [midomi.com](http://www.midomi.com) when you need to find the name of a song.
+- [minutes.io](http://www.minutes.io) quickly capture effective notes during meetings.
+- [mockaroo.com](http://www.mockaroo.com) download mock data to fill the rows in your Excel spreadsheet.
+- [myfonts.com/WhatTheFont](http://www.myfonts.com/WhatTheFont) upload an image of any text and quickly determine the font family.
+- [mymaps.google.com](http://www.mymaps.google.com) create custom Google Maps with scribbles, pins and custom shapes.
+- [namechk.com](http://www.namechk.com) search for your desired username across hundreds of social networks and domain names.
+- [noisli.com](http://www.noisli.com) ambient noises to help you improve focus and boost productivity.
+- [noteflight.com](http://www.noteflight.com) print music sheets, write your own music online ( review) .
+- [onlineocr.net](http://www.onlineocr.net) recognize text from scanned PDFs – see other OCR tools.
+- [pdfescape.com](http://www.pdfescape.com) lets you quickly edit PDF in the browser without Acrobat.
+- [pixton.com](http://www.pixton.com) create your own comic strips with your own characters and move them into any pose.
+- [powtoon.com](http://www.powtoon.com) create engaging whiteboard videos and presentations with your own voiceovers. Also see videoscribe.co 1.
+- [privnote.com](http://www.privnote.com) create text notes that will self-destruct after being read.
+- [random.org](http://www.random.org) pick random numbers, flip coins, and more.
+- [regex.info](http://www.regex.info) find data hidden in your photographs – see more EXIF tools.
+- [remotedesktop.google.com](http://www.remotedesktop.google.com) access other computers or allow others to remote access your computer over the Internet.
+- [reverse.photos](http://www.reverse.photos) upload an image and find similar pictures on the web.
+- [screenshot.guru](http://www.screenshot.guru) take high-resolution screenshots of web pages on mobile and desktops.
+- [seatguru.com](http://www.seatguru.com) consult this site before choosing a seat for your next flight.
+- [similarsites.com](http://www.similarsites.com) discover new sites that are similar to what you like already.
+- [slide.ly](http://www.slide.ly) make marketing videos and branded stories for Instagram, Facebook and YouTube trailers. Also see animoto.com and biteable.com.
+- [slides.com](http://www.slides.com) create pixel-perfect slide decks and broadcast your presentations to an audience of any size from anywhere.
+- [snapdrop.com](http://www.snapdrop.com) like Apple AirDrop but for the web. Share files directly between devices in the same network without having to upload them to any server first.
+- [snopes.com](http://www.snopes.com) find if that email offer you received is real or just another scam.
+- [spark.adobe.com](http://www.spark.adobe.com) make stunning video presentations with voice narration and wow everyone.
+- [sumopaint.com](http://www.sumopaint.com) an excellent layer-based online image editor.
+- [sway.com](http://www.sway.com) create and share interactive reports, newsletters, presentations, and for storytelling.
+- [talltweets.com](http://www.talltweets.com) Turn Google Slides in animated GIF presentations.
+- [thunkable.com](http://www.thunkable.com) build your own apps for Android and iOS by dragging blocks instead of writing code. Also see: glitch.com 8.
+- [tinychat.com](http://www.tinychat.com) setup your own private chat room in micro-seconds.
+- [todo.microsoft.com](http://www.todo.microsoft.com) a beautiful todo app and task manager. Also see Trello.
+- [translate.google.com](http://www.translate.google.com) translate web pages, PDFs and Office documents.
+- [twitterbots](http://www.twitterbots) create your own Twitter bots that can auto-reply, DM, follow people and more.
+- [typingweb.com](http://www.typingweb.com) master touch-typing with these practice sessions.
+- [unsplash.com](http://www.unsplash.com) the best place to download images absolutely free.
+- [upwork.com](http://www.upwork.com) find freelancers and subject experts to work on any kind of project.
+- [urbandictionary.com](http://www.urbandictionary.com) find definitions of slangs and informal words.
+- [vectr.com](http://www.vectr.com) create vector graphics and export them as SVG or PNG files.
+- [videos.pexels.com](http://www.videos.pexels.com) an online library of free HD videos you can use everywhere. Also see videvo.net 20.
+- [web.skype.com](http://www.web.skype.com) make voice and video calls in your browser with Skype.
+- [webmakerapp.com](http://www.webmakerapp.com) an offline playground for building web projects in HTML, CSS and JavaScript.
+- [wetransfer.com](http://www.wetransfer.com) for sharing really big files online.
+- [whereami](http://www.whereami) find the postal address of your current location on Google maps.
+- [wirecutter.com](http://www.wirecutter.com) whether you need a vacuum cleaner or an SD card, this is the best product recommendation website on the Internet.
+- [wolframalpha.com](http://www.wolframalpha.com) gets answers directly without searching – see more wolfram tips.
+- [youtube.com/webcam](http://www.youtube.com/webcam) broadcast yourself live over the Internet without any complicated setup.
+- [zerodollarmovies.com](http://www.zerodollarmovies.com) a huge collection of free movies curated from YouTube.
