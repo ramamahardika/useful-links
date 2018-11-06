@@ -1,6 +1,6 @@
 # The Most Useful Websites and Web Apps
 
-- [10minutemail.com](http://www.10minutemail.com) create disposable email addresses for putting inside sign-up forms.
+- [10minutemail.com](http://www.10minutemail.com){:target="_blank"} create disposable email addresses for putting inside sign-up forms.
 - [anchor.fm](http://www.anchor.fm) the easiest way to record a podcast that you can distribute on iTunes without have to pay for hosting.
 - [apify.com](http://www.apify.com) the perfect web scraping tool that lets you extract data from nearly any website.
 - [app.grammarly.com](http://www.app.grammarly.com) check your writing for spelling, style, andgrammatical errors.
